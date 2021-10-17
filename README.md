@@ -1,4 +1,4 @@
-# CNLAB_0-5
+# CNLAB
 
 # CN_lab01
 Lab Assignment I
