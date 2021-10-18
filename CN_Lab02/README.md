@@ -1,7 +1,6 @@
 ## CN_LAB02
 References:
-1. https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-f
-rom-the-http/
+1. https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http/
 2. http://www2.cs.uh.edu/~gnawali/courses/cosc6377-f12/p1/http.html
 3. https://www.geeksforgeeks.org/domain-name-system-dns-in-application-lay
 er/
