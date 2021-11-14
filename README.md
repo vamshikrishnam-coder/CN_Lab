@@ -97,3 +97,13 @@ a. Analyse the three-way handshake during the establishment of the
 communication.
 b. Identify if there are any retransmitted segments
 
+### Lab -06
+Part A
+1.Printthelistofnetworkinterfaces,theirMACaddressesandtheirassignedIPaddresses,if any.
+2.Calculatethelatencybetweenmininetvmandwww.rutgers.edufor10packets.Repeattheresultforstanford.eduandwww.google.co.inandcomparethedifference in latency.
+
+Part B
+Create a simple two node network using "sudo mn" and do the following
+a.Print the MAC address of hosth
+1.PrinttheMACaddressesofswitchs1.Explain the different interfaces that s1 has.b.Pingh1fromh2 and view the ARP entries stored at hosts h1 and h2.
+3.Measure the TCP throughput from h1 to h2 using iperf
